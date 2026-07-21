@@ -1,0 +1,9 @@
+# Artefatos gerados pelo pipeline
+vendas.db
+dashboard.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

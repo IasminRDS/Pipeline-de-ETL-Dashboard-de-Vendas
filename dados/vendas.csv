@@ -1,0 +1,281 @@
+data,produto,categoria,cidade,regiao,vendedor,quantidade,preco_unitario
+2024-05-20,Smartphone,Eletronicos,Salvador,Nordeste,Elaine,4,2058.03
+2024-08-04,Smartphone,Eletronicos,Sao Paulo,Sudeste,Ana,1,1574.49
+2024-11-28,Mesa,Escritorio,Bom Jesus da Lapa,Nordeste,Ana,7,576.35
+2024-08-04,Monitor,Eletronicos,Rio de Janeiro,Sudeste,Ana,6,1189.02
+2024-02-19,Smartphone,Eletronicos,Vitoria da Conquista,Nordeste,Fabio,6,3618.74
+2024-03-04,Cadeira Gamer,Escritorio,Sao Paulo,Sudeste,Carla,7,786.68
+2024-12-26,Luminaria,Escritorio,Bom Jesus da Lapa,Nordeste,Ana,2,71.0
+2024-02-21,Fone de Ouvido,Acessorios,Curitiba,Sul,Carla,7,224.55
+2024-12-09,Teclado,Acessorios,Bom Jesus da Lapa,Nordeste,Fabio,5,307.56
+2024-05-05,Monitor,Eletronicos,Sao Paulo,Sudeste,Fabio,3,1447.16
+2024-12-16,Mesa,Escritorio,Bom Jesus da Lapa,Nordeste,Ana,6,1074.28
+2024-05-17,Teclado,Acessorios,Vitoria da Conquista,Nordeste,Carla,2,155.4
+2024-09-12,Fone de Ouvido,Acessorios,Rio de Janeiro,Sudeste,Bruno,7,540.04
+2024-10-14,Fone de Ouvido,Acessorios,Rio de Janeiro,Sudeste,Carla,5,468.45
+2024-09-17,  FONE DE OUVIDO  ,Acessorios,Bom Jesus da Lapa,Nordeste,Fabio,8,127.27
+2024-12-14,Monitor,Eletronicos,Curitiba,Sul,Diego,7,1634.97
+2024-10-10,Mesa,Escritorio,Feira de Santana,Nordeste,Carla,1,944.23
+2024-05-30,  TECLADO  ,Acessorios,Salvador,Nordeste,Fabio,7,139.03
+2024-04-01,Mouse,Acessorios,Sao Paulo,Sudeste,Elaine,2,222.81
+2024-07-10,Fone de Ouvido,Acessorios,Bom Jesus da Lapa,Nordeste,Ana,3,360.48
+2024-09-07,Luminaria,Escritorio,Feira de Santana,Nordeste,Carla,1,86.85
+2024-05-03,Fone de Ouvido,Acessorios,Salvador,Nordeste,Elaine,2,124.54
+2024-12-03,Monitor,Eletronicos,Bom Jesus da Lapa,Nordeste,Elaine,8,2125.59
+2024-10-03,Webcam,Acessorios,Bom Jesus da Lapa,Nordeste,Carla,4,390.92
+2024-08-19,  CADEIRA GAMER  ,Escritorio,,Sudeste,Elaine,2,972.7
+2024-04-22,Fone de Ouvido,Acessorios,Sao Paulo,Sudeste,Ana,1,116.92
+2024-09-20,Teclado,Acessorios,Salvador,Nordeste,Fabio,4,176.33
+2024-08-30,Luminaria,Escritorio,Sao Paulo,Sudeste,Ana,4,248.31
+2024-08-04,Webcam,Acessorios,Feira de Santana,Nordeste,Fabio,7,297.47
+2024-07-25,Smartphone,Eletronicos,Salvador,Nordeste,Elaine,6,3501.48
+2024-08-04,Cadeira Gamer,Escritorio,Bom Jesus da Lapa,Nordeste,Diego,3,1006.4
+2024-01-26,Mesa,Escritorio,Salvador,Nordeste,Bruno,1,1175.2
+2024-09-03,Webcam,Acessorios,Vitoria da Conquista,Nordeste,Ana,4,448.57
+2024-08-20,Webcam,Acessorios,Feira de Santana,Nordeste,Elaine,5,280.74
+2024-04-07,  CADEIRA GAMER  ,Escritorio,Bom Jesus da Lapa,Nordeste,Ana,5,939.47
+2024-01-26,Teclado,Acessorios,Salvador,Nordeste,Elaine,8,245.88
+2024-04-05,Smartphone,Eletronicos,Curitiba,Sul,Ana,2,2987.59
+2024-10-23,Luminaria,Escritorio,Bom Jesus da Lapa,Nordeste,Elaine,1,208.65
+2024-04-14,Teclado,Acessorios,Feira de Santana,Nordeste,Carla,6,163.99
+2024-02-07,Cadeira Gamer,Escritorio,Feira de Santana,Nordeste,Ana,1,1204.11
+2024-09-16,Mesa,Escritorio,Bom Jesus da Lapa,Nordeste,Bruno,5,505.97
+2024-03-21,Teclado,Acessorios,Feira de Santana,Nordeste,Fabio,8,348.46
+2024-12-07,Mesa,Escritorio,Salvador,Nordeste,Carla,5,1145.4
+2024-10-10,Smartphone,Eletronicos,Salvador,Nordeste,Bruno,3,2180.87
+2024-09-07,Mouse,Acessorios,Sao Paulo,Sudeste,Diego,5,230.12
+2024-01-02,Mouse,Acessorios,Salvador,Nordeste,Fabio,6,201.94
+2024-12-27,Cadeira Gamer,Escritorio,Sao Paulo,Sudeste,Fabio,7,1317.0
+2024-01-19,Monitor,Eletronicos,Sao Paulo,Sudeste,Carla,6,1615.51
+2024-01-21,Teclado,Acessorios,Curitiba,Sul,Elaine,6,155.12
+2024-03-20,Webcam,Acessorios,Sao Paulo,Sudeste,Diego,4,448.55
+2024-06-19,Notebook,Eletronicos,Bom Jesus da Lapa,Nordeste,Carla,7,4644.02
+2024-12-25,  MONITOR  ,Eletronicos,Curitiba,Sul,Bruno,2,1335.56
+2024-06-05,Cadeira Gamer,Escritorio,Feira de Santana,Nordeste,Carla,4,945.22
+2024-05-22,Smartphone,Eletronicos,Curitiba,Sul,Elaine,6,3103.7
+2024-02-29,Teclado,Acessorios,Salvador,Nordeste,Ana,5,145.36
+2024-06-25,Luminaria,Escritorio,Vitoria da Conquista,Nordeste,Elaine,6,164.73
+2024-01-23,Fone de Ouvido,Acessorios,Feira de Santana,Nordeste,Fabio,7,80.88
+2024-08-08,Fone de Ouvido,Acessorios,Feira de Santana,Nordeste,Fabio,2,573.41
+2024-06-02,Smartphone,Eletronicos,Rio de Janeiro,Sudeste,Elaine,5,3167.23
+2024-08-03,Monitor,Eletronicos,Bom Jesus da Lapa,Nordeste,Carla,7,1748.25
+2024-01-01,Webcam,Acessorios,Sao Paulo,Sudeste,Fabio,5,229.03
+2024-08-14,Teclado,Acessorios,Vitoria da Conquista,Nordeste,Fabio,8,299.44
+2024-02-13,Monitor,Eletronicos,Rio de Janeiro,Sudeste,Bruno,5,1521.63
+2024-04-11,Mouse,Acessorios,Bom Jesus da Lapa,Nordeste,Ana,3,45.13
+2024-11-18,Cadeira Gamer,Escritorio,Vitoria da Conquista,Nordeste,Bruno,4,1490.18
+2024-02-24,Notebook,Eletronicos,Curitiba,Sul,Diego,7,3593.91
+2024-05-07,Notebook,Eletronicos,Sao Paulo,Sudeste,Elaine,2,4021.63
+2024-08-14,Luminaria,Escritorio,Feira de Santana,Nordeste,Fabio,7,259.34
+2024-05-12,Cadeira Gamer,Escritorio,Vitoria da Conquista,Nordeste,Diego,4,1623.85
+2024-08-13,Fone de Ouvido,Acessorios,Feira de Santana,Nordeste,Elaine,2,451.04
+2024-03-18,Smartphone,Eletronicos,Bom Jesus da Lapa,Nordeste,Diego,4,2457.59
+2024-10-04,Webcam,Acessorios,Feira de Santana,Nordeste,Elaine,8,277.99
+2024-10-21,Notebook,Eletronicos,Curitiba,Sul,Diego,7,4058.56
+2024-10-06,Webcam,Acessorios,Sao Paulo,Sudeste,Diego,4,305.53
+2024-12-13,Teclado,Acessorios,Rio de Janeiro,Sudeste,Elaine,7,314.5
+2024-07-20,Mesa,Escritorio,Salvador,Nordeste,Bruno,1,467.16
+2024-07-13,Notebook,Eletronicos,Feira de Santana,Nordeste,Diego,6,3580.99
+2024-08-03,Mouse,Acessorios,Curitiba,Sul,Ana,5,215.33
+2024-11-28,Teclado,Acessorios,Bom Jesus da Lapa,Nordeste,Bruno,2,332.18
+2024-01-11,Fone de Ouvido,Acessorios,Curitiba,Sul,Bruno,3,204.04
+2024-05-11,Cadeira Gamer,Escritorio,Rio de Janeiro,Sudeste,Ana,6,884.57
+2024-02-25,Monitor,Eletronicos,Feira de Santana,Nordeste,Diego,1,2100.44
+2024-04-11,Webcam,Acessorios,Rio de Janeiro,Sudeste,Fabio,2,345.0
+2024-12-16,Mouse,Acessorios,,Sul,Elaine,2,207.21
+2024-07-08,Webcam,Acessorios,Rio de Janeiro,Sudeste,Diego,2,312.27
+2024-07-04,Smartphone,Eletronicos,Vitoria da Conquista,Nordeste,Fabio,8,3268.27
+2024-10-02,Mouse,Acessorios,Sao Paulo,Sudeste,Carla,8,137.62
+2024-02-14,Fone de Ouvido,Acessorios,Curitiba,Sul,Elaine,5,538.45
+2024-01-15,Webcam,Acessorios,Feira de Santana,Nordeste,Carla,8,443.36
+2024-11-01,Teclado,Acessorios,Feira de Santana,Nordeste,Bruno,5,262.3
+2024-10-11,Webcam,Acessorios,Vitoria da Conquista,Nordeste,Ana,4,382.43
+2024-04-23,Smartphone,Eletronicos,Feira de Santana,Nordeste,Diego,7,3229.47
+2024-06-25,Mesa,Escritorio,Sao Paulo,Sudeste,Diego,7,1197.31
+2024-05-08,Mouse,Acessorios,Feira de Santana,Nordeste,Elaine,4,65.34
+2024-04-20,Monitor,Eletronicos,Bom Jesus da Lapa,Nordeste,Elaine,8,1187.1
+2024-04-09,Mouse,Acessorios,,Nordeste,Elaine,5,87.77
+2024-01-24,Monitor,Eletronicos,Feira de Santana,Nordeste,Diego,1,1574.7
+2024-01-07,Smartphone,Eletronicos,Curitiba,Sul,Ana,5,2673.49
+2024-09-01,Mouse,Acessorios,Curitiba,Sul,Fabio,2,212.64
+2024-03-17,Notebook,Eletronicos,Bom Jesus da Lapa,Nordeste,Diego,5,3353.33
+2024-11-12,Luminaria,Escritorio,Sao Paulo,Sudeste,Carla,4,246.17
+2024-06-05,Luminaria,Escritorio,Vitoria da Conquista,Nordeste,Bruno,1,206.31
+2024-12-04,Fone de Ouvido,Acessorios,Feira de Santana,Nordeste,Ana,2,161.67
+2024-12-18,Webcam,Acessorios,Vitoria da Conquista,Nordeste,Fabio,8,230.68
+2024-12-17,Cadeira Gamer,Escritorio,Salvador,Nordeste,Fabio,4,1716.3
+2024-02-28,Fone de Ouvido,Acessorios,Vitoria da Conquista,Nordeste,Ana,4,416.77
+2024-06-06,Notebook,Eletronicos,Bom Jesus da Lapa,Nordeste,Diego,5,3990.48
+2024-10-03,Mouse,Acessorios,Sao Paulo,Sudeste,Fabio,8,131.93
+2024-05-08,Teclado,Acessorios,Sao Paulo,Sudeste,Elaine,1,118.31
+2024-12-10,Luminaria,Escritorio,Salvador,Nordeste,Elaine,5,198.3
+2024-04-02,Cadeira Gamer,Escritorio,Feira de Santana,Nordeste,Carla,7,1398.26
+2024-06-13,Webcam,Acessorios,Feira de Santana,Nordeste,Carla,2,445.94
+2024-10-08,Webcam,Acessorios,Curitiba,Sul,Diego,1,292.83
+2024-01-01,Mesa,Escritorio,Curitiba,Sul,Diego,8,730.6
+2024-01-27,Cadeira Gamer,Escritorio,Curitiba,Sul,Fabio,4,993.76
+2024-01-15,Cadeira Gamer,Escritorio,,Nordeste,Diego,4,1480.76
+2024-02-28,Smartphone,Eletronicos,Bom Jesus da Lapa,Nordeste,Fabio,8,3867.65
+2024-12-27,Mouse,Acessorios,Sao Paulo,Sudeste,Diego,5,127.25
+2024-07-15,Mesa,Escritorio,Bom Jesus da Lapa,Nordeste,Ana,4,1137.49
+2024-07-31,Mouse,Acessorios,Curitiba,Sul,Carla,6,236.19
+2024-10-27,Mouse,Acessorios,Curitiba,Sul,Carla,8,221.7
+2024-10-05,Mesa,Escritorio,Curitiba,Sul,Fabio,7,764.28
+2024-07-15,Fone de Ouvido,Acessorios,Sao Paulo,Sudeste,Diego,4,525.13
+2024-12-05,  WEBCAM  ,Acessorios,Vitoria da Conquista,Nordeste,Elaine,3,308.22
+2024-02-21,Teclado,Acessorios,,Sul,Bruno,8,120.91
+2024-12-01,Webcam,Acessorios,Curitiba,Sul,Elaine,3,148.43
+2024-02-11,Webcam,Acessorios,Rio de Janeiro,Sudeste,Carla,6,443.89
+2024-10-04,Cadeira Gamer,Escritorio,Curitiba,Sul,Carla,1,1379.21
+2024-02-16,Fone de Ouvido,Acessorios,Rio de Janeiro,Sudeste,Ana,7,588.74
+2024-12-21,  CADEIRA GAMER  ,Escritorio,Bom Jesus da Lapa,Nordeste,Carla,5,1693.77
+2024-08-08,Teclado,Acessorios,Feira de Santana,Nordeste,Bruno,3,165.7
+2024-02-10,Monitor,Eletronicos,Bom Jesus da Lapa,Nordeste,Bruno,7,1667.59
+2024-11-22,Fone de Ouvido,Acessorios,Vitoria da Conquista,Nordeste,Diego,5,318.98
+2024-10-06,Mouse,Acessorios,Rio de Janeiro,Sudeste,Carla,3,55.51
+2024-05-08,Webcam,Acessorios,Rio de Janeiro,Sudeste,Diego,8,441.22
+2024-07-14,Smartphone,Eletronicos,Bom Jesus da Lapa,Nordeste,Fabio,6,2937.03
+2024-01-05,Webcam,Acessorios,Feira de Santana,Nordeste,Carla,1,466.03
+2024-06-29,Fone de Ouvido,Acessorios,Sao Paulo,Sudeste,Fabio,4,411.04
+2024-02-19,Monitor,Eletronicos,Rio de Janeiro,Sudeste,Fabio,1,1232.51
+2024-05-31,Monitor,Eletronicos,Salvador,Nordeste,Elaine,6,1846.47
+2024-09-13,Teclado,Acessorios,Sao Paulo,Sudeste,Diego,5,347.45
+2024-06-22,  MOUSE  ,Acessorios,Rio de Janeiro,Sudeste,Bruno,2,138.35
+2024-10-12,Webcam,Acessorios,Curitiba,Sul,Ana,6,154.32
+2024-12-10,Cadeira Gamer,Escritorio,Feira de Santana,Nordeste,Ana,5,1343.02
+2024-01-13,Fone de Ouvido,Acessorios,Vitoria da Conquista,Nordeste,Diego,6,555.93
+2024-07-28,Mouse,Acessorios,Rio de Janeiro,Sudeste,Diego,2,69.35
+2024-04-30,Smartphone,Eletronicos,Salvador,Nordeste,Fabio,3,2471.61
+2024-10-27,Mesa,Escritorio,Vitoria da Conquista,Nordeste,Elaine,3,1108.33
+2024-01-17,Webcam,Acessorios,Feira de Santana,Nordeste,Carla,6,202.56
+2024-07-07,Smartphone,Eletronicos,Rio de Janeiro,Sudeste,Diego,6,1651.38
+2024-04-18,Smartphone,Eletronicos,Rio de Janeiro,Sudeste,Elaine,1,1626.45
+2024-10-10,Fone de Ouvido,Acessorios,Salvador,Nordeste,Bruno,4,384.92
+2024-05-21,Luminaria,Escritorio,Salvador,Nordeste,Ana,3,297.01
+2024-01-08,Notebook,Eletronicos,Bom Jesus da Lapa,Nordeste,Bruno,6,4621.97
+2024-03-05,Mouse,Acessorios,Salvador,Nordeste,Carla,7,150.48
+2024-02-25,Mesa,Escritorio,,Sudeste,Fabio,8,803.07
+2024-08-22,Mesa,Escritorio,Feira de Santana,Nordeste,Fabio,1,448.66
+2024-12-30,  SMARTPHONE  ,Eletronicos,Vitoria da Conquista,Nordeste,Ana,8,1683.73
+2024-11-15,Monitor,Eletronicos,Feira de Santana,Nordeste,Elaine,6,1333.27
+2024-02-20,Luminaria,Escritorio,Vitoria da Conquista,Nordeste,Fabio,2,264.67
+2024-08-19,Fone de Ouvido,Acessorios,Vitoria da Conquista,Nordeste,Fabio,4,295.18
+2024-08-06,Smartphone,Eletronicos,Feira de Santana,Nordeste,Diego,6,3162.77
+2024-02-13,Smartphone,Eletronicos,Salvador,Nordeste,Bruno,2,2579.69
+2024-10-27,Mesa,Escritorio,Salvador,Nordeste,Diego,6,936.01
+2024-11-03,Notebook,Eletronicos,Feira de Santana,Nordeste,Fabio,5,3832.96
+2024-02-25,Cadeira Gamer,Escritorio,Bom Jesus da Lapa,Nordeste,Elaine,6,1629.91
+2024-08-07,Fone de Ouvido,Acessorios,Curitiba,Sul,Ana,1,396.68
+2024-12-25,Monitor,Eletronicos,Feira de Santana,Nordeste,Bruno,5,2090.15
+2024-07-24,Luminaria,Escritorio,,Sudeste,Fabio,2,94.05
+2024-07-11,Mesa,Escritorio,Bom Jesus da Lapa,Nordeste,Carla,7,762.92
+2024-02-13,Luminaria,Escritorio,,Sudeste,Ana,1,97.34
+2024-12-04,Mouse,Acessorios,Vitoria da Conquista,Nordeste,Elaine,7,141.99
+2024-08-08,Smartphone,Eletronicos,Feira de Santana,Nordeste,Fabio,2,2208.12
+2024-04-22,  MOUSE  ,Acessorios,Salvador,Nordeste,Bruno,7,246.73
+2024-05-10,  MONITOR  ,Eletronicos,Curitiba,Sul,Bruno,5,1259.37
+2024-09-29,Monitor,Eletronicos,Vitoria da Conquista,Nordeste,Ana,4,1500.37
+2024-01-22,Webcam,Acessorios,Curitiba,Sul,Elaine,7,127.12
+2024-07-26,Webcam,Acessorios,Sao Paulo,Sudeste,Bruno,7,230.02
+2024-12-19,Luminaria,Escritorio,Vitoria da Conquista,Nordeste,Elaine,6,81.15
+2024-02-10,Webcam,Acessorios,Sao Paulo,Sudeste,Bruno,7,450.8
+2024-11-20,Smartphone,Eletronicos,Sao Paulo,Sudeste,Carla,2,2826.51
+2024-02-22,Monitor,Eletronicos,Bom Jesus da Lapa,Nordeste,Fabio,3,1158.36
+2024-11-17,Smartphone,Eletronicos,Bom Jesus da Lapa,Nordeste,Fabio,8,2659.88
+2024-11-21,Luminaria,Escritorio,Rio de Janeiro,Sudeste,Ana,6,267.42
+2024-11-19,Cadeira Gamer,Escritorio,Vitoria da Conquista,Nordeste,Ana,5,1575.96
+2024-08-19,Mouse,Acessorios,Vitoria da Conquista,Nordeste,Ana,1,51.95
+2024-09-16,Luminaria,Escritorio,Sao Paulo,Sudeste,Ana,7,171.05
+2024-10-19,Cadeira Gamer,Escritorio,Curitiba,Sul,Ana,4,1053.68
+2024-06-24,Cadeira Gamer,Escritorio,Salvador,Nordeste,Diego,2,1255.0
+2024-09-24,Cadeira Gamer,Escritorio,Sao Paulo,Sudeste,Carla,3,1100.29
+2024-11-19,  LUMINARIA  ,Escritorio,Salvador,Nordeste,Carla,6,75.82
+2024-12-02,Mouse,Acessorios,Rio de Janeiro,Sudeste,Carla,3,110.01
+2024-12-23,Mouse,Acessorios,Rio de Janeiro,Sudeste,Elaine,7,67.08
+2024-06-17,Webcam,Acessorios,Rio de Janeiro,Sudeste,Fabio,3,374.64
+2024-11-26,  MESA  ,Escritorio,Salvador,Nordeste,Bruno,7,806.79
+2024-09-05,Teclado,Acessorios,Curitiba,Sul,Ana,4,160.23
+2024-10-03,Mesa,Escritorio,Curitiba,Sul,Elaine,1,929.54
+2024-03-24,Webcam,Acessorios,Bom Jesus da Lapa,Nordeste,Bruno,3,435.91
+2024-07-29,Cadeira Gamer,Escritorio,Salvador,Nordeste,Carla,6,1444.0
+2024-09-30,Cadeira Gamer,Escritorio,Bom Jesus da Lapa,Nordeste,Bruno,4,1040.41
+2024-10-19,Teclado,Acessorios,Rio de Janeiro,Sudeste,Elaine,8,233.12
+2024-04-12,  WEBCAM  ,Acessorios,Bom Jesus da Lapa,Nordeste,Carla,3,451.74
+2024-12-30,Mesa,Escritorio,Salvador,Nordeste,Elaine,2,628.05
+2024-08-11,Monitor,Eletronicos,Curitiba,Sul,Carla,2,2124.98
+2024-01-28,Notebook,Eletronicos,Vitoria da Conquista,Nordeste,Carla,7,4103.61
+2024-06-12,Fone de Ouvido,Acessorios,Salvador,Nordeste,Bruno,2,516.37
+2024-08-29,Notebook,Eletronicos,Feira de Santana,Nordeste,Ana,3,4565.91
+2024-04-20,Notebook,Eletronicos,Feira de Santana,Nordeste,Ana,3,4187.85
+2024-06-03,Mouse,Acessorios,Bom Jesus da Lapa,Nordeste,Diego,2,50.03
+2024-09-12,Smartphone,Eletronicos,Salvador,Nordeste,Carla,1,3079.89
+2024-11-10,Webcam,Acessorios,Salvador,Nordeste,Ana,6,211.41
+2024-02-04,Mesa,Escritorio,Feira de Santana,Nordeste,Carla,1,712.36
+2024-01-09,Mouse,Acessorios,Rio de Janeiro,Sudeste,Fabio,6,205.59
+2024-10-24,Smartphone,Eletronicos,Curitiba,Sul,Fabio,6,1833.52
+2024-12-16,Monitor,Eletronicos,Curitiba,Sul,Bruno,8,2173.15
+2024-08-22,  SMARTPHONE  ,Eletronicos,Rio de Janeiro,Sudeste,Ana,1,2233.61
+2024-09-20,Teclado,Acessorios,Feira de Santana,Nordeste,Fabio,7,396.63
+2024-07-01,Fone de Ouvido,Acessorios,Feira de Santana,Nordeste,Carla,1,530.22
+2024-08-13,Webcam,Acessorios,Vitoria da Conquista,Nordeste,Carla,7,248.83
+2024-02-12,Mesa,Escritorio,Feira de Santana,Nordeste,Elaine,7,463.14
+2024-02-22,Mouse,Acessorios,Feira de Santana,Nordeste,Fabio,2,108.86
+2024-12-19,  WEBCAM  ,Acessorios,Bom Jesus da Lapa,Nordeste,Carla,8,253.59
+2024-05-20,Luminaria,Escritorio,Vitoria da Conquista,Nordeste,Fabio,1,78.01
+2024-03-14,  MONITOR  ,Eletronicos,Salvador,Nordeste,Carla,8,848.72
+2024-10-17,Teclado,Acessorios,Vitoria da Conquista,Nordeste,Carla,1,277.58
+2024-02-09,Cadeira Gamer,Escritorio,Curitiba,Sul,Bruno,3,1282.41
+2024-04-05,Smartphone,Eletronicos,Salvador,Nordeste,Carla,8,2794.36
+2024-11-09,Cadeira Gamer,Escritorio,Bom Jesus da Lapa,Nordeste,Bruno,5,1463.38
+2024-03-29,Smartphone,Eletronicos,Vitoria da Conquista,Nordeste,Carla,8,3993.16
+2024-02-03,Teclado,Acessorios,Rio de Janeiro,Sudeste,Fabio,5,366.31
+2024-07-04,Monitor,Eletronicos,Curitiba,Sul,Diego,4,969.91
+2024-10-10,Notebook,Eletronicos,Feira de Santana,Nordeste,Ana,6,4041.33
+2024-07-22,Smartphone,Eletronicos,Feira de Santana,Nordeste,Ana,8,2814.24
+2024-11-24,Monitor,Eletronicos,Feira de Santana,Nordeste,Elaine,2,1429.96
+2024-03-07,Luminaria,Escritorio,Bom Jesus da Lapa,Nordeste,Elaine,7,180.69
+2024-03-25,Monitor,Eletronicos,Feira de Santana,Nordeste,Elaine,3,1251.73
+2024-02-10,Mouse,Acessorios,Curitiba,Sul,Fabio,5,81.22
+2024-09-30,Mouse,Acessorios,Sao Paulo,Sudeste,Bruno,2,145.54
+2024-11-15,Monitor,Eletronicos,Rio de Janeiro,Sudeste,Ana,6,1979.54
+2024-11-24,Smartphone,Eletronicos,Salvador,Nordeste,Fabio,5,3127.82
+2024-11-17,Notebook,Eletronicos,Vitoria da Conquista,Nordeste,Fabio,5,4355.43
+2024-08-20,Webcam,Acessorios,Feira de Santana,Nordeste,Diego,2,381.67
+2024-11-06,Fone de Ouvido,Acessorios,Feira de Santana,Nordeste,Carla,3,242.54
+2024-07-08,Webcam,Acessorios,Bom Jesus da Lapa,Nordeste,Bruno,2,241.26
+2024-01-26,Monitor,Eletronicos,Salvador,Nordeste,Bruno,5,2123.54
+2024-06-09,Teclado,Acessorios,Sao Paulo,Sudeste,Diego,4,326.57
+2024-01-12,Mouse,Acessorios,Vitoria da Conquista,Nordeste,Bruno,2,238.5
+2024-01-25,Luminaria,Escritorio,Feira de Santana,Nordeste,Fabio,1,127.53
+2024-10-01,Cadeira Gamer,Escritorio,Feira de Santana,Nordeste,Fabio,1,1631.89
+2024-07-25,  TECLADO  ,Acessorios,Curitiba,Sul,Carla,6,104.03
+2024-02-07,Mesa,Escritorio,Feira de Santana,Nordeste,Elaine,7,803.4
+2024-03-06,Luminaria,Escritorio,Salvador,Nordeste,Carla,2,154.54
+2024-11-04,  MONITOR  ,Eletronicos,Bom Jesus da Lapa,Nordeste,Carla,7,1500.11
+2024-08-21,Cadeira Gamer,Escritorio,Sao Paulo,Sudeste,Elaine,3,1366.89
+2024-07-20,Teclado,Acessorios,Bom Jesus da Lapa,Nordeste,Diego,5,274.05
+2024-08-31,Luminaria,Escritorio,Feira de Santana,Nordeste,Elaine,1,148.41
+2024-12-18,Mouse,Acessorios,Curitiba,Sul,Elaine,1,165.35
+2024-01-27,Luminaria,Escritorio,Bom Jesus da Lapa,Nordeste,Diego,8,100.92
+2024-12-14,Monitor,Eletronicos,Curitiba,Sul,Ana,4,844.2
+2024-08-02,Cadeira Gamer,Escritorio,Feira de Santana,Nordeste,Elaine,3,1154.26
+2024-02-01,Cadeira Gamer,Escritorio,Curitiba,Sul,Diego,3,1270.55
+2024-06-09,Mesa,Escritorio,Vitoria da Conquista,Nordeste,Fabio,3,767.73
+2024-09-04,Mouse,Acessorios,Sao Paulo,Sudeste,Carla,4,241.04
+2024-04-16,Mouse,Acessorios,Rio de Janeiro,Sudeste,Fabio,8,106.58
+2024-03-03,Mouse,Acessorios,Feira de Santana,Nordeste,Bruno,7,228.11
+2024-05-27,Mouse,Acessorios,Salvador,Nordeste,Diego,2,112.74
+2024-10-02,Fone de Ouvido,Acessorios,Bom Jesus da Lapa,Nordeste,Elaine,5,565.17
+2024-05-04,Luminaria,Escritorio,Bom Jesus da Lapa,Nordeste,Ana,1,220.76
+2024-06-18,Smartphone,Eletronicos,,Nordeste,Elaine,8,1751.36
+2024-11-30,Monitor,Eletronicos,Vitoria da Conquista,Nordeste,Carla,8,1468.43
+2024-01-31,Mouse,Acessorios,Rio de Janeiro,Sudeste,Ana,2,176.98
+2024-03-31,Monitor,Eletronicos,Vitoria da Conquista,Nordeste,Fabio,1,2196.04
+2024-01-05,Mouse,Acessorios,Salvador,Nordeste,Carla,5,159.27
+2024-10-05,Cadeira Gamer,Escritorio,Rio de Janeiro,Sudeste,Carla,8,1678.19
+2024-02-27,Fone de Ouvido,Acessorios,Curitiba,Sul,Bruno,6,164.5
+2024-06-21,Notebook,Eletronicos,Rio de Janeiro,Sudeste,Fabio,5,4222.01
+2024-08-06,Webcam,Acessorios,Curitiba,Sul,Bruno,6,152.96
+2024-05-07,Cadeira Gamer,Escritorio,Feira de Santana,Nordeste,Carla,1,986.86
+2024-10-20,Mouse,Acessorios,Sao Paulo,Sudeste,Fabio,1,94.93
+2024-06-06,Smartphone,Eletronicos,Vitoria da Conquista,Nordeste,Fabio,3,2513.54
