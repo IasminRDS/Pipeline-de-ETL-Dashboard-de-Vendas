@@ -91,3 +91,11 @@ pipeline-etl-vendas/
 - Testes automatizados e containerização com Docker
 
 > 📌 Os dados são **fictícios**, gerados por `gerar_dados.py` apenas para demonstração.
+
+## 📄 Licença
+
+MIT — veja [LICENSE](./LICENSE).
+
+---
+
+Feito por **Iasmin Ribeiro de Souza** · [LinkedIn](https://www.linkedin.com/in/iasmin-ribeiro-de-souza-033536401) · [GitHub](https://github.com/IasminRDS)
