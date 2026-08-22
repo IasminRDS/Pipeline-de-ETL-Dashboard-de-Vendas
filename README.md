@@ -10,7 +10,7 @@ Pipeline de dados de ponta a ponta: **extrai** um CSV bruto de vendas, **trata e
 
 Projeto inspirado na minha experiência com **rotinas ETL, análise de dados e dashboards de performance**.
 
-![Prévia do Dashboard](preview.svg)
+![Dashboard gerado pelo pipeline: receita total, receita por mês e por categoria, top 5 produtos e ranking de vendedores](preview.png)
 
 ## 🔄 O fluxo (ETL)
 
