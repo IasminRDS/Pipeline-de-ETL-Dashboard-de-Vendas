@@ -4,7 +4,7 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Tests](https://img.shields.io/badge/testes-9%20passando-brightgreen)
+[![testes](https://github.com/IasminRDS/Pipeline-de-ETL-Dashboard-de-Vendas/actions/workflows/ci.yml/badge.svg)](https://github.com/IasminRDS/Pipeline-de-ETL-Dashboard-de-Vendas/actions/workflows/ci.yml)
 
 Pipeline de dados de ponta a ponta: **extrai** um CSV bruto de vendas, **trata e enriquece** os dados, **carrega** em um banco SQLite e gera um **dashboard de BI** — tudo em Python.
 
